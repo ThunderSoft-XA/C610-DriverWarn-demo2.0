@@ -1,0 +1,1 @@
+The video shows the front and back images collected by the IMX577 camera on the QCS610 open kit, and the image data is passed to the AI inference model, and the process of judging the fatigue state of the driver based on the inference result. 
